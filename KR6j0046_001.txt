@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:22.213291
+#+DATE: 2015-08-30 20:24:23.134776
 #+TITLE: 金剛頂瑜伽三十七尊禮
 #+PROPERTY: CBETA_ID T18n0879
 #+PROPERTY: ID KR6j0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 879
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0046_T_000-0337a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0046_T_001-0337a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.879[cf.No.878]¶
-
- 金剛頂瑜伽三十七尊禮¶
+No. 879 [cf. No. 878]¶
+金剛頂瑜伽三十七尊禮¶
 ¶
-唐特進試鴻臚卿三藏沙門¶
+唐特進試鴻臚卿三藏沙門大廣智不空奉　詔譯沙門¶
 大廣智不空奉　詔譯¶
 
 南慕清淨法身毘盧遮那佛。
