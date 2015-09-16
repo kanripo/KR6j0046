@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:22.213291
+#+DATE: 2015-08-30 20:24:22.438395
 #+TITLE: 金剛頂瑜伽三十七尊禮
 #+PROPERTY: CBETA_ID T18n0879
 #+PROPERTY: ID KR6j0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 879
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0046_T_000-0337a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0046_T_001-0337a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.879[cf.No.878]¶
-
- 金剛頂瑜伽三十七尊禮¶
+No. 879 [cf. No. 878]¶
+金剛頂瑜伽三十七尊禮¶
 ¶
-唐特進試鴻臚卿三藏沙門¶
+三藏沙門大廣智不空奉詔譯¶
 大廣智不空奉　詔譯¶
 
 南慕清淨法身毘盧遮那佛。
@@ -95,7 +94,7 @@ No.879[cf.No.878]¶
 
 南慕一切如來適悅心金剛嬉戲菩薩等出¶
 生。盡虛空遍法界同一體性金剛界生身一¶
-切供養海雲菩薩摩訶薩。¶
+切供養雲海菩薩摩訶薩。¶
 
 南慕一切如來離垢繒金剛鬘菩薩等出生。¶
 盡虛空遍法界一切波羅蜜菩薩摩訶薩。¶
