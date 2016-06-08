@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:22.438395
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:05
 #+TITLE: 金剛頂瑜伽三十七尊禮
 #+PROPERTY: CBETA_ID T18n0879
 #+PROPERTY: ID KR6j0046
